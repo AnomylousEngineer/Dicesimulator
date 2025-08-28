@@ -12,7 +12,8 @@ while True:
     """
           Version 0.98
             Date: 2025-08-28
-    Latest Uploaded: 
+    Latest Uploaded: 2025-08-28
+    By: GurraH11111
     """
     import random
     while True:
@@ -70,3 +71,4 @@ while True:
     if  svar == "n":
         break
     else: print("Rolling again!")
+
